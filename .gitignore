@@ -168,5 +168,14 @@ cython_debug/
 .geofeather
 .parquet
 .geoparquet
-
 data
+
+
+*.gz
+*.csv
+*.gzip
+*.feather
+*.geofeather
+*.parquet
+*.geoparquet
+data/
